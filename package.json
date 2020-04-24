@@ -1,0 +1,19 @@
+{
+  "name": "reminder-cards",
+  "version": "1.0.0",
+  "description": "simple reminder cards web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorMontillo/reminder-cards.git"
+  },
+  "author": "Hector S. Montillo hectormontillo.97@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HectorMontillo/reminder-cards/issues"
+  },
+  "homepage": "https://github.com/HectorMontillo/reminder-cards#readme"
+}
